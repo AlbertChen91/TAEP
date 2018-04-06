@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --model_ ProjE --data ./data/WN18/ --save_dir saved_model_ProjE_WN18/ProjE_saved_WN18_dim_100_neg_pos_10_batch_100_w_7_drop_5/ --batch 100 --test_batch 500 --dim 100 --epochs 200 --worker 5 --eval_per 1 --eval_start 0 --save_m 20 --optimizer adagrad --lr 0.1 --reg_weight 1e-7 --dropout 0.5 --n_neg_sample 10 --tolerance 5

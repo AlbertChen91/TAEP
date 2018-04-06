@@ -1,0 +1,4 @@
+[one2one] mean rank: 50.435 filtered mean rank: 50.151 hit@10: 0.893 filtered hit@10: 0.894 hit@1: 0.560 filtered hit@1: 0.639
+[one2many] mean rank: 583.210 filtered mean rank: 175.894 hit@10: 0.342 filtered hit@10: 0.640 hit@1: 0.080 filtered hit@1: 0.399
+[many2one] mean rank: 11.569 filtered mean rank: 11.386 hit@10: 0.957 filtered hit@10: 0.958 hit@1: 0.768 filtered hit@1: 0.843
+[many2many] mean rank: 76.431 filtered mean rank: 21.592 hit@10: 0.533 filtered hit@10: 0.848 hit@1: 0.112 filtered hit@1: 0.535
